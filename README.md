@@ -1,6 +1,6 @@
 <p align="center"><img src="resources/KE_post.png" align="middle" width="550"></p> 
 
-# Kotlin-Everywhere-2019
+# Kotlin Everywhere 2019
 Repo con los slides y links del Kotlin Everywhere Medellín
 
 - Ana María Salazar - Comunidades en Tecnologia:
@@ -16,7 +16,7 @@ Repo con los slides y links del Kotlin Everywhere Medellín
 	- [Video](https://www.youtube.com/watch?v=3RWwTWPjRrg) 
 
 - Carlos Daniel Muñoz - Effective Kotlin Migration in Android:
-	- [Slides]()
+	- [Slides](https://docs.google.com/presentation/d/14i_5Y2AkbHpZa8rQfB4tDwyCcse0nWgL7huTSOcd7gc/edit?usp=drivesdk)
 	- [Video](https://www.youtube.com/watch?v=puQ0QOgEAh4)
 
 - Alejandro Rios - DI: "Vaccinating" your projects 💉:
